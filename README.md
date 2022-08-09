@@ -1,5 +1,5 @@
 ## ✴️ About me
-- My name is **Artem**, I'm from **Russia**.
+- I'm from **Russia**.
 
 ### My projects
 - [ImageToGD](https://github.com/Leon-baton/ImageToGD), import image to level geometry dash. 
