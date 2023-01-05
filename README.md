@@ -1,5 +1,5 @@
 ## ✴️ About me
-- I'm from **Russia**.
+- Anon.
 
 ### My projects
 - [ImageToGD](https://github.com/Leon-baton/ImageToGD), import image to level geometry dash. 
