@@ -2,7 +2,7 @@
     <i> Обо мне </i>
 </h1>
 
-<img align="left" src="https://github.com/Leon-baton.png" width="308" />
+<img align="left" src="https://cdn.discordapp.com/avatars/633223783204782090/3e35867c3255223ae1db50cd28bc27c4.webp" width="308" />
 
 ```haskell
 ashtrath@github
