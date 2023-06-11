@@ -29,8 +29,3 @@
     Java - мой первый язык программирования, однако в последний раз я на нем писал около года назад.<br>
     Python - знаю чуть больше базы, ненавижу этот язык всем сердцем.
 </p>
-<br><br>
-
-<a href="https://sefinek.net" target="_blank">
-    <div align="center"><img src="https://lanyard.cnrad.dev/api/633223783204782090?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
-</a>
