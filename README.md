@@ -1,5 +1,17 @@
-## ✴️ About me
-- Anon.
+<h1 align="center">
+    <i> Обо мне </i>
+</h1>
+
+<img align="left" src="https://github.com/Leon-baton.png" width="308" />
+
+```haskell
+ashtrath@github
+------------------------------
+os       • windows x64
+
+pronouns • he/him
+discord  • LEON#9938
+```
 
 ### My projects
 - [ImageToGD](https://github.com/Leon-baton/ImageToGD), import image to level geometry dash. 
