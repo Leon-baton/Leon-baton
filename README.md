@@ -19,11 +19,11 @@
     Языки и фрейморки, которыми я пользуюсь для фронтенда:<br>
     • Html, Css, JavaScript, TypeScript, Vue.js, React.js, Bootstrap, Tailwind.<br><br>
     Для бэкенда:<br>
-    • Express.js, Mongosee, MySQL.
+    • Express.js, Mongoose, MySQL.
 </p>
 <br>
 
-<h3>Также я умею:</h3>
+<h3>Также я знаю:</h3>
 <img src="https://skillicons.dev/icons?i=java,python&perline=2" alt="skillicons.dev" align="left">
 <p>
     Java - мой первый язык программирования, однако в последний раз я на нем писал около года назад.<br>
