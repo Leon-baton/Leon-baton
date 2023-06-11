@@ -11,7 +11,7 @@
     • Дискорд: LEON#9938
 </div>
 
-<h2 align="center">Что я умею?</h2>
+<h1 align="center">Что я умею?</h1>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,bootstrap,tailwind,express,mongodb,mysql&perline=4" alt="skillicons.dev" align="right">
 <h3>Мои навыки в Frontend/Backend:</h3>
