@@ -21,7 +21,6 @@
     Для бэкенда:<br>
     • Express.js, Mongoose, MySQL.
 </p>
-<br>
 
 <h3>Также я знаю:</h3>
 <img src="https://skillicons.dev/icons?i=java,python&perline=2" alt="skillicons.dev" align="left">
