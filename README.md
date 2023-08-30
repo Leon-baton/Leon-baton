@@ -2,7 +2,7 @@
 <br>
 
 <div>
-    <img align="left" src="https://cdn.discordapp.com/avatars/633223783204782090/3e35867c3255223ae1db50cd28bc27c4.webp?size=1024" width="128" />
+    <img align="left" src="https://cdn.discordapp.com/avatars/633223783204782090/4e40a389bd82cab4c2e12b4b49699210.webp?size=1024" width="128" />
 
     Меня зовут Артем, я живу в России. Опыт программирования > 3-х лет.
 
