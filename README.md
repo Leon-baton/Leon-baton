@@ -1,8 +1,8 @@
-<hr>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,docker,mongodb,vue,react,tailwind,express,mysql&perline=4" alt="skillicons.dev" align="right">
+<h1 align="center">Fullstack JS/TS Developer</h1>
+<img src="https://skillicons.dev/icons?i=docker,js,ts,bootstrap,vue,tailwind,nestjs,express,mongodb,mysql&perline=3&theme=dark" alt="skillicons.dev" align="right">
 <h3>💻 Основные навыки:</h3>
 <p>
-Фронтенд:<br>• JS/TS, Vue.js, React.js, Bootstrap, Tailwind.<br><br>
+Фронтенд:<br>• JS/TS, Vue 2/3, Bootstrap, Tailwind.<br><br>
 Бэкенд:<br>• Nest.js, Express.js, MongoDB, PostgreSQL.<br><br>
 Прочее:<br>• Docker, Docker-Compose, Ubuntu.
 </p>
