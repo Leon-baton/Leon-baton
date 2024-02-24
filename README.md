@@ -1,9 +1,12 @@
-<h2 align="center">Что я умею?</h2>
-
+<hr>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,docker,mongodb,vue,react,tailwind,express,mysql&perline=4" alt="skillicons.dev" align="right">
-<h3>💻 Мои навыки в веб-программировании:</h3>
-<p>Фронтенд:<br> • JS/TS, Vue.js, React.js, Bootstrap, Tailwind.<br><br>Бэкенд:<br>• Express.js, MongoDB, PostgreSQL.</p>
-
+<h3>💻 Основные навыки:</h3>
+<p>
+Фронтенд:<br>• JS/TS, Vue.js, React.js, Bootstrap, Tailwind.<br><br>
+Бэкенд:<br>• Nest.js, Express.js, MongoDB, PostgreSQL.<br><br>
+Прочее:<br>• Docker, Docker-Compose, Ubuntu.
+</p>
+<hr>
 <h3>Также я знаю:</h3>
 <img src="https://skillicons.dev/icons?i=java,cpp" alt="skillicons.dev" align="left">
 <p>Java - мой первый язык программирования. В последний раз я на нем писал около года назад.<br>C++/C - довольно часто пишу на этих языках.<br></p>
